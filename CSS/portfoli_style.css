@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-}
+} 
 
 body {
     margin: 0%;
@@ -56,6 +56,7 @@ body {
 .nested-list p {
     padding: 12px 2px;
     text-align: left;
+    font-size: 20px;
 }
 
 .dropdown:hover .nested-list {
